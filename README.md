@@ -182,6 +182,8 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 # Interactive and Practical Tools
 
+- [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) — Alignment, safety & cognitive architecture for autonomous AI agents. Membrane security, epistemic tagger, self-audit, agent discovery, cognitive architecture, collective cognition. Zero dependencies.
+
 * [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) - The Bias Report is powered by Aequitas, an open-source bias audit toolkit for machine learning developers, analysts, and policymakers to audit machine learning models for discrimination and bias, and make informed and equitable decisions around developing and deploying predictive risk-assessment tools. 
 * [Awesome Machine Learning Production List](https://github.com/ethicalml/awesome-production-machine-learning) - A list of tools and frameworks that support the design, development and operation of production machine learning systems, currently maintained by The Institute for Ethical AI & Machine Learning.
 * [Cape Python](https://github.com/capeprivacy/cape-python) - Easily apply privacy-enhancing techniques for data science and machine learning tasks in Pandas and Spark. Can be used in conjunction with [Cape Core](https://github.com/capeprivacy/cape) to collaborate on privacy policies and distribute those policies for data projects across teams and organizations.
