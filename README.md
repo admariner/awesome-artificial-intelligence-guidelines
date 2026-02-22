@@ -81,6 +81,10 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Decision on strengthening the protection of online information](https://www.globalprivacyblog.com/privacy/chinas-legislature-adopts-decision-on-strengthening-the-protection-of-online-information/) - The Standing Committee of the National People's Congress (NPC) of the People's Republic of China adopted the decision on strengthening the protection of online information - this is an act that contains 12 clauses applicable to entities both in the public and private sectors in respect to the collection and processing of electronic personal information on the internet.
 * [Personal Data Protection Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=I0050021) - The personal data protection act of the Republic of China, which is enacted to regulate the collection, processing and use of personal data as so to prevent harm on personality rights, and to facilitate the proper use of personal data.
 
+## Ireland
+
+* [National AI Strategy of Ireland](https://assets.gov.ie/static/documents/5e511b3a/National_Digital_and_AI_Strategy_2030.pdf) - Ireland releases their national AI strategy in 2026 tackling literacy, infrastructure, adoption, etc.
+
 ## Israel
 
 * [The principles of the policy for the responsible development of the field of AI](https://www.gov.il/en/pages/most-news20221117) - The draft policy for regulation and ethics in the field of artificial intelligence, with an emphasis on "responsible innovation", is intended to ensure the advancement of the industry while safeguarding the public interest
